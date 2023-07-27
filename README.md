@@ -11,7 +11,9 @@
 
 
  While I have experience in coding, I also have experience in:
+
  3D Modeling
+ 
  Designing - - mainly architecture wise
 
  
