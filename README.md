@@ -1,6 +1,6 @@
 # neathryn.github.io
 
-![wild](https://github.com/neathryn/neathryn.github.io/assets/140681793/dcac4c32-368b-46d7-823c-544ed8a215dc)
+![Screenshot_1](https://github.com/neathryn/neathryn.github.io/assets/140681793/2442d3bb-7320-4d30-8730-d85facbb1ad9)
 
 
 
