@@ -1,4 +1,19 @@
 # neathryn.github.io
 
 
-Hello, I'm Neath            ![Domo-Kun-Background-PNG](https://github.com/neathryn/neathryn.github.io/assets/140681793/3d040105-efec-4e52-9c5e-d82cc6911b1c)
+welcome to my site
+Hi, I’m Neath
+I’m experienced in Java, Python and, I'm currently learning C++
+also somewhat experienced in Ruby.
+                                                                                    ![Domo-Kun-Background-PNG](https://github.com/neathryn/neathryn.github.io/assets/140681793/b80d7636-06a6-4f81-900c-7b4ca249c6ed)
+
+While I have experience in coding, I also have experience in:
+3D Modeling
+Designing - - mainly architecture wise 
+
+and plan to put them to use in the future with internships - - I have been learning code since 2021 with the help of LeetCode.
+
+
+I am currently not taking commissions, so my contact button is not here.
+
+However, my discord is neath6067 for inquiries. :)
