@@ -1,7 +1,7 @@
 # neathryn.github.io
 
-#welcome to my site
-*Hi, I’m Neath
+welcome to my site
+Hi, I’m Neath
 I’m experienced in Java, Python and, I'm currently learning C++
 also somewhat experienced in Ruby.
 While I have experience in coding, I also have experience in:
