@@ -1,6 +1,6 @@
 # neathryn.github.io
 
-# welcome to my site
+### welcome to my site
 # Hi, I’m Neath
 
 # I’m experienced in Java, Python and, I'm currently learning C++
