@@ -10,11 +10,13 @@
 
 
 
+ 
  While I have experience in coding, I also have experience in:
 
  3D Modeling
  
  Designing - - mainly architecture wise
+
 
  
  and plan to put them to use in the future with internships - - I have
