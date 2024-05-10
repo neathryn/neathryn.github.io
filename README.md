@@ -2,7 +2,7 @@
 
 Experienced in Java, Python, and Lua. Semi-introduced to C++ and, Ruby (learning more thoroughly).
 
-I'm currently taking time from 3D modeling commissions to focus on better repologized 3D models using Blender and higher quality custom textures
+I'm currently taking time from 3D modeling commissions to focus on making better retopologized 3D models using Blender and higher-quality custom textures
 
 My Discord is @rlji for inquiries.
 
