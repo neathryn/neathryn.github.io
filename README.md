@@ -1,4 +1,4 @@
-## COMMISSIONS CLOSED
+## CODING AND 3D MODELING COMMISSIONS CLOSED
 
 Experienced in Java, Python, and Lua. Semi-introduced to C++ and, Ruby (learning more thoroughly).
 
