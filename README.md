@@ -7,9 +7,9 @@ I'm currently taking time from 3D modeling commissions to focus on making better
 My Discord is @rlji for inquiries.
 
 
-
+Thanks for looking into this, byebye!
  
 ![image](https://github.com/neathryn/neathryn.github.io/assets/140681793/7646c9f3-4bc9-4982-907b-b30479a1adfd)
 
 
-thanks for looking into this, byebye!
+
