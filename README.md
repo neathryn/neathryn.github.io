@@ -1,15 +1,11 @@
+## COMMISSIONS CLOSED
 
-![THISONEFORESURE](https://github.com/neathryn/neathryn.github.io/assets/140681793/5f99d990-6eb4-4829-8a76-1f9104dc892f)
+Experienced in Java, Python, Lua. semi-introduced to C++ and, Ruby (learning more thoroughly).
 
-
-
-
-
+My Discord is @rlji for inquiries.
 
 
 
-
-### However, my discord is @rlji for inquiries. :)
  
 ![Domo-Kun-Background-PNG](https://github.com/neathryn/neathryn.github.io/assets/140681793/a381f9ec-b527-4d5b-9181-7b28ea986625)
 
