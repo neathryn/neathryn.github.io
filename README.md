@@ -1,6 +1,6 @@
 ## COMMISSIONS CLOSED
 
-Experienced in Java, Python, and Lua. semi-introduced to C++ and, Ruby (learning more thoroughly).
+Experienced in Java, Python, and Lua. Semi-introduced to C++ and, Ruby (learning more thoroughly).
 
 My Discord is @rlji for inquiries.
 
